@@ -1,5 +1,7 @@
 # ViTexEmo: A Multimodal Metadata Framework for Textual, Visual, and Emotional Enrichment in Digital Comic Archives
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17468178.svg)](https://doi.org/10.5281/zenodo.17468178)
+
 This repository contains the core pseudocode, scripts, and documentation for the **ViTexEmo** framework proposed in the research paper:
 > Sharma, R., Kukreja, V. & Bhattacharjee, A. (2025). *ViTexEmo: A Multimodal Metadata Framework for Textual, Visual, and Emotional Enrichment in Digital Comic Archives.*
 
@@ -27,6 +29,7 @@ This project is released under the MIT License — see the [LICENSE](LICENSE) fi
 
 > **Note:** The `src/` folder is provided as a ZIP archive (`src.zip`) for convenience.  
 > Unzip it locally to access all source scripts (`preprocess.py`, `extract_text_emotion.py`, `extract_image_emotion.py`, `fuse_and_eval.py`).
+
 
 
 
