@@ -1,0 +1,11 @@
+# ViTexEmo minimal requirements
+python>=3.9
+numpy
+pandas
+opencv-python
+textblob
+torch
+timm
+scikit-learn
+tqdm
+pyyaml
