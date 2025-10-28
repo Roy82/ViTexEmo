@@ -25,3 +25,8 @@ See [`requirements.txt`](requirements.txt) for a detailed requirements.
 
 This project is released under the MIT License — see the [LICENSE](LICENSE) file for details.
 
+> **Note:** The `src/` folder is provided as a ZIP archive (`src.zip`) for convenience.  
+> Unzip it locally to access all source scripts (`preprocess.py`, `extract_text_emotion.py`, `extract_image_emotion.py`, `fuse_and_eval.py`).
+
+
+
