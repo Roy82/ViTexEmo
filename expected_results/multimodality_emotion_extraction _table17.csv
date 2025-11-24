@@ -1,0 +1,7 @@
+Metric,Textual contribution (%),Visual contribution (%),Overall Value (%)
+Precision,91.2,90.5,93
+Recall,90,89.8,91.5
+F1 Score,91,90.8,92.2
+AUC-ROC,94.2,93.8,95.5
+MCC,92.5,91.7,94
+Cohen's Kappa,91.8,90.9,93.3
