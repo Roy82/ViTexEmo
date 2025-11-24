@@ -23,12 +23,22 @@ See [`pseudocode.md`](pseudocode.md) for a detailed step-by-step workflow.
 ## ⚙️ Requirements
 See [`requirements.txt`](requirements.txt) for a detailed requirements.
 
+## 📌 Reproducibility
+
+This repository provides all the scripts, sample data, and expected outputs required to fully reproduce the results reported in the ViTexEmo manuscript. The workflow includes textual emotion extraction (TextBlob polarity + custom rule-based mapping), visual emotion analysis using ViT, and multimodal fusion evaluation.
+
+### 🔧 Step-by-Step Reproduction
+To reproduce the key results (Tables 15, 16, and the overall evaluation metrics), simply run:
+
+bash run_reproduce.sh
+
 ## License
 
 This project is released under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 > **Note:** The `src/` folder is provided as a ZIP archive (`src.zip`) for convenience.  
 > Unzip it locally to access all source scripts (`preprocess.py`, `extract_text_emotion.py`, `extract_image_emotion.py`, `fuse_and_eval.py`).
+
 
 
 
