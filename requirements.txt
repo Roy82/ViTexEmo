@@ -1,11 +1,12 @@
-# ViTexEmo minimal requirements
-python>=3.9
-numpy
-pandas
-opencv-python
-textblob
-torch
-timm
-scikit-learn
-tqdm
-pyyaml
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+textblob==0.17.1
+nltk==3.8.1
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.36.2
+pillow==10.2.0
+tqdm==4.66.1
+matplotlib==3.8.2
+requests==2.31.0
