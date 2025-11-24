@@ -1,0 +1,4 @@
+Metric,Happy,Sad,Angry,Fearful,Disgust,Surprised,Neutral,Mixed
+Precision,92.1,88.5,89.2,86.7,85.1,90.0,93.4,84.0
+Recall,88.7,85.2,87.4,84.9,82.5,88.5,91.2,80.5
+F1 Score,90.4,86.8,88.3,85.8,83.7,89.2,92.3,82.2
